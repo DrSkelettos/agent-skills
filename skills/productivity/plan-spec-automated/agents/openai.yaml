@@ -1,0 +1,5 @@
+interface:
+  display_name: "Plan Spec Automated"
+  short_description: "Auto plan, split, and notify"
+policy:
+  allow_implicit_invocation: false

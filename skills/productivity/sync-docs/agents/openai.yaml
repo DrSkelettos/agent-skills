@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sync Docs"
+  short_description: "Sync living docs to the actual implementation"
+policy:
+  allow_implicit_invocation: false

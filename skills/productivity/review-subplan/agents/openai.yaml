@@ -1,0 +1,5 @@
+interface:
+  display_name: "Review Subplan"
+  short_description: "Review one sub-plan implementation"
+policy:
+  allow_implicit_invocation: false

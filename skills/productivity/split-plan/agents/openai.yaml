@@ -1,0 +1,5 @@
+interface:
+  display_name: "Split Plan"
+  short_description: "Break a big plan into sub-plans"
+policy:
+  allow_implicit_invocation: false

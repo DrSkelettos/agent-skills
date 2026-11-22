@@ -1,0 +1,5 @@
+interface:
+  display_name: "Review Plan"
+  short_description: "Review a full plan plus sub-plans"
+policy:
+  allow_implicit_invocation: false

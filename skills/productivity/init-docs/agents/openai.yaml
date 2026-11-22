@@ -1,0 +1,5 @@
+interface:
+  display_name: "Init Docs"
+  short_description: "Build the initial living-docs baseline from the implementation"
+policy:
+  allow_implicit_invocation: false

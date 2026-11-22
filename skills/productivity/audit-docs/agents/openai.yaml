@@ -1,0 +1,5 @@
+interface:
+  display_name: "Audit Docs"
+  short_description: "Audit all living docs against the implementation"
+policy:
+  allow_implicit_invocation: false
